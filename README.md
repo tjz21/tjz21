@@ -7,9 +7,9 @@ Check out some of our work.
 
 |      Repo List                                     | Description                          |
 | :------------------------------------------------- | :----------------------------------- |
-| [Research Software](https://github.com/stars/tjz21/lists/research-software) | Data Analytics |
-| [Computational SIs](https://github.com/stars/tjz21/lists/computational-sis) | Data Analytics |
-| [Educational Material](https://github.com/stars/tjz21/lists/educational-material) | Data Analytics | 
+| [Research Software](https://github.com/stars/tjz21/lists/research-software) 🔬 | Open-source, research-grade software |
+| [Computational SIs](https://github.com/stars/tjz21/lists/computational-sis) 🍏 | Repositories with FAIR computational supporting information |
+| [Educational Material](https://github.com/stars/tjz21/lists/educational-material) ☕ | Interactive tools for learning quantum chemistry | 
 
 ## Profile Links
 
@@ -21,7 +21,7 @@ Check out some of our work.
 
 * <a href="https://github.com/tjz21"> <img alt="github" class="icon" src="GitHub_logo.png" style="width:20px; height:20px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>GitHub</b> tjz21</a>
 
-* <a href="https://twitter.com/LabZuehlsdorff"> <img alt="twitter" class="icon" src="738px-Twitter_bird_logo_2012.png" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Twitter</b> @LabZuehlsdorff</a>
+* <a href="https://twitter.com/LabZuehlsdorff"> <img alt="twitter" class="icon" src="Twitter_logo.png" style="width:20px; height:16px; margin-right:4px; margin-left:4px;margin-bottom:4px; background-color:transparent;"> <b>Twitter</b> @LabZuehlsdorff</a>
 
 ---
 
