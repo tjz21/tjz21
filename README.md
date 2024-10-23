@@ -1,11 +1,10 @@
 # Welcome! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> </picture>
 
-## This page is a work in progress
+I am Assitant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
 
-[Department of Chemistry](https://chemistry.oregonstate.edu/) at [Oregon State University](https://oregonstate.edu/) 🌳.
+## Repositories 💻
 
-## Repositories
-Check out some of our work.
+Feel free to check out work on [Google Scholar](https://scholar.google.co.uk/citations?user=qVWUOL4AAAAJ&hl=en). We also provide our in-house software and supporting information files through easily accesible GitHub repositories.
 
 |      Repo List                                     | Description                          |
 | :------------------------------------------------- | :----------------------------------- |
