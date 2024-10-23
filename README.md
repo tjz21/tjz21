@@ -4,7 +4,7 @@ I am Assistant Professor studying the optical properties of organic dyes in comp
 
 ## Repositories 💻
 
-<img align="right" src='https://github.com/tjz21/tjz21/blob/main/alizarin.png' width = "100" height = "120">
+<img align="right" src='https://github.com/tjz21/tjz21/blob/main/alizarin.png' width = "200" height = "241">
 
 Feel free to check out work on [Google Scholar](https://scholar.google.co.uk/citations?user=qVWUOL4AAAAJ&hl=en). We also provide our in-house software and supporting information files through easily accessible GitHub repositories.
 
