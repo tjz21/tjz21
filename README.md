@@ -1,10 +1,10 @@
 # Welcome! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> </picture>
 
-<img align="right" src='https://github.com/tjz21/tjz21/blob/main/alizarin.png' width = "200" height = "241">
-
 I am Assistant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
 
 ## Repositories 💻
+
+<img align="right" src='https://github.com/tjz21/tjz21/blob/main/alizarin.png' width = "100" height = "120">
 
 Feel free to check out work on [Google Scholar](https://scholar.google.co.uk/citations?user=qVWUOL4AAAAJ&hl=en). We also provide our in-house software and supporting information files through easily accessible GitHub repositories.
 
