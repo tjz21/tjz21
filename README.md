@@ -1,16 +1,18 @@
 # Welcome! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> </picture>
 
-I am Assitant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
+<img align="right" src='https://github.com/tjz21/tjz21/blob/main/alizarin.png' width = "200" height = "241">
+
+I am Assistant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
 
 ## Repositories 💻
 
-Feel free to check out work on [Google Scholar](https://scholar.google.co.uk/citations?user=qVWUOL4AAAAJ&hl=en). We also provide our in-house software and supporting information files through easily accesible GitHub repositories.
+Feel free to check out work on [Google Scholar](https://scholar.google.co.uk/citations?user=qVWUOL4AAAAJ&hl=en). We also provide our in-house software and supporting information files through easily accessible GitHub repositories.
 
 |      Repo List                                     | Description                          |
 | :------------------------------------------------- | :----------------------------------- |
 | [Research Software](https://github.com/stars/tjz21/lists/research-software) 🔬 | Open-source, research-grade software |
-| [Computational SIs](https://github.com/stars/tjz21/lists/computational-sis) 🍏 | Repositories with FAIR computational supporting information |
-| [Educational Material](https://github.com/stars/tjz21/lists/educational-material) ☕ | Interactive tools for learning quantum chemistry | 
+| [Computational SIs](https://github.com/stars/tjz21/lists/computational-sis) ☕ | Repositories with FAIR computational supporting information |
+| [Educational Material](https://github.com/stars/tjz21/lists/educational-material) 🍏 | Interactive tools for learning quantum chemistry | 
 
 ## Profile Links
 
