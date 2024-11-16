@@ -1,6 +1,6 @@
 # Welcome! <picture> <source srcset="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" type="image/webp"> <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="32" height="32"> </picture>
 
-I am Assistant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
+I am an Assistant Professor studying the optical properties of organic dyes in complex environments. I run a computational research [group](https://timzuehlsdorff.com/) in the Department of Chemistry at Oregon State University 🌳.
 
 ## Repositories 💻
 
